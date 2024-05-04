@@ -45,11 +45,12 @@ ul {
 }
 
 .intro-img {
-    width: 350px;
+    width: 400px;
 }
 
 .intro-main {
     width: 500px;
+    align-self: center;
 }
 
 .intro-maintxt {
