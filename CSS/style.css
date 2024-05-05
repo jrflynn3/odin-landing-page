@@ -112,7 +112,10 @@ a {
 
 .signup-btn {
     background-color: #3882f6;
+    border-radius: 8px;
+    border-style: none;
+    font-size: 22px;
     font-weight: 700;
-    padding: 8px 16px;
+    padding: 8px 32px;
 }
 
