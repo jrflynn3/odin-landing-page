@@ -37,6 +37,26 @@ ul {
     margin: 16px 250px;
 }
 
+.info {
+    margin: 100px 250px;
+}
+
+.info-cards {
+    display: flex;
+}
+
+.info-header {
+    text-align: center;
+}
+
+.info img {
+    display: block;
+    border-radius: 15px;
+    border: 7px solid #3882f6;
+    height: 300px;
+    width: 200px;
+}
+
 .intro {
     background-color: #1F2937;
     display: flex;
