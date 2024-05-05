@@ -41,7 +41,7 @@ a {
     margin: 160px 250px;
 }
 
-.copyright {
+.footer {
     background-color: #1F2937;
     color:#f9faf8;
     font-size: 18px;
@@ -163,6 +163,7 @@ a {
     border-radius: 15px;
     color: #f9faf8;
     display: flex;
+    font-size: 22px;
     justify-content: space-between;
     padding: 80px 160px;
 }
