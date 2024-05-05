@@ -19,13 +19,7 @@ ul {
     display: flex;
     gap: 22px;
     list-style-type: none;
-    /* padding: 8px; */
 }
-
-/* .header * {
-    border-style: solid;
-    border-color: green;
-} */
 
 .intro-subtxt,
 .signup-btn,
@@ -101,6 +95,7 @@ a {
 }
 
 .intro-img {
+    border-radius: 15px;
     width: 400px;
 }
 
