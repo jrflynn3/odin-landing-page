@@ -4,6 +4,7 @@
 }
 
 a {
+    font-size: 18px;
     text-decoration: none;
 }
 
@@ -33,7 +34,6 @@ ul {
     align-items: center;
     display: flex;
     justify-content: space-between;
-    /* padding: 0 16px; */
     margin: 16px 250px;
 }
 
@@ -93,6 +93,7 @@ ul {
 }
 
 .intro-subtxt {
+    font-size: 18px;
     padding: 16px 0;
 }
 
